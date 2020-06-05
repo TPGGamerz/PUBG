@@ -18,9 +18,9 @@ class Team {
 var arr = [];
 //arr[x] = new Team("Team name", kp1 , pp1 , kp2 , pp2 , kp3 , pp3 , kp4 , pp4 , kp5 , pp5);
 
-arr[0]  = new Team("  ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[0]  = new Team(" g ", 20, 100, 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[1]  = new Team("  ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[1]  = new Team("gh  ", 100 , 20 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[2]  = new Team("  ", 0 , 0 , 0 , 1 , 0 , 0 , 0 , 0 , 0 , 0);
 
