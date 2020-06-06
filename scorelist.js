@@ -18,7 +18,7 @@ class Team {
 var arr = [];
 //arr[x] = new Team("Team name", kp1 , pp1 , kp2 , pp2 , kp3 , pp3 , kp4 , pp4 , kp5 , pp5);
 
-arr[0]  = new Team("OG ", 0, 0, 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[0]  = new Team("OG ", 0, 0, 0 , 0 , 230 , 0 , 0 , 0 , 0 , 0);
 
 arr[1]  = new Team("squadELEMENT  ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
