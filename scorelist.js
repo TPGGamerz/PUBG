@@ -20,51 +20,51 @@ var arr = [];
 
 arr[0]  = new Team("OG ", 0, 0, 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[1]  = new Team("squadELEMENT  ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[1]  = new Team("squadELEMENT  ", 5 , 16 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[2]  = new Team("ASG", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[2]  = new Team("ASG", 4 , 10 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[3]  = new Team("TEAM LORD ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[3]  = new Team("TEAM LORD ", 1 , 3 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[4]  = new Team("SpYDeR  ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[4]  = new Team("SpYDeR  ", 0 , 5 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[5]  = new Team("2乛LITE ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[5]  = new Team("2乛LITE ", 25 , 30 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[6]  = new Team("DNZL", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[7]  = new Team("TEAM PURGE ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[7]  = new Team("TEAM PURGE ", 6 , 22 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[8]  = new Team("SWIDE ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[8]  = new Team("SWIDE ", 0 , 12 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[9]  = new Team("BT ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[9]  = new Team("BT ", 3 , 6 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[10] = new Team("TEAM PWOLI ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[11] = new Team("BORN KILLERZ ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[11] = new Team("BORN KILLERZ ", 12 , 19 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[12] = new Team("RTV", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[13] = new Team("TeamXForceE ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[13] = new Team("TeamXForceE ", 0 , 1 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[14] = new Team("TeamSinnersPSM ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[15] = new Team("PYRO  ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[16] = new Team("BRTHxkerela ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[16] = new Team("BRTHxkerela ", 3 , 7 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[17] = new Team("RQD ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[17] = new Team("RQD ", 4 , 4 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[18] = new Team("InDAuS ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[19] = new Team("KL01彡CREW ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[19] = new Team("KL01彡CREW ", 5 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[20] = new Team("DARK ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[21] = new Team("SPARTANS ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[21] = new Team("SPARTANS ", 1 , 14 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[22] = new Team("RCZ  ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[23] = new Team("8DPKerala  ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[23] = new Team("8DPKerala  ", 3 , 2 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[24] = new Team("TPG CORE  ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
