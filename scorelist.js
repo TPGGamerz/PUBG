@@ -78,5 +78,14 @@ for (var i = 0; i < arr.length; i++) {
             arr[j] = arr[j + 1];
             arr[j + 1] = t;
         }
+        else if (arr[j].overall == arr[j + 1].overall) {
+            var kpj =  arr[j].kp1 + arr[j].kp2 + arr[j].kp3 + arr[j].kp4 + arr[j].kp5;
+            var kpj2 = arr[j + 1].kp1 + arr[j + 1].kp2 + arr[j + 1].kp3 + arr[j + 1].kp4 + arr[j + 1].kp5;
+            if (kpj < kpj2) {
+                t = arr[j];
+                arr[j] = arr[j + 1];
+                arr[j + 1] = t;
+            }
+        }
     }
 }
