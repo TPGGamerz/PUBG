@@ -54,7 +54,7 @@ arr[16] = new Team("BRTHxkerela ", 3 , 7 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[17] = new Team("RQD ", 4 , 4 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[18] = new Team("InDAuS ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[18] = new Team("InDAuS ", 0 , 8 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[19] = new Team("KL01彡CREW ", 5 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
