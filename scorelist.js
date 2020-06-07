@@ -26,7 +26,7 @@ arr[2]  = new Team("ASG", 4 , 10 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[3]  = new Team("TEAM LORD ", 1 , 3 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[4]  = new Team("SpYDeR  ", 0 , 5 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[4]  = new Team("SpYDeR  ", 0 ,5 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[5]  = new Team("2乛LITE ", 25 , 30 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
