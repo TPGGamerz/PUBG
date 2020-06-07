@@ -54,13 +54,13 @@ arr[16] = new Team("BRTHxkerela ", 3 , 7 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[17] = new Team("RQD ", 4 , 4 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[18] = new Team("InDAuS ", 0 , 8 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[18] = new Team("InDAuS ", 1 , 14 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[19] = new Team("KL01彡CREW ", 5 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[20] = new Team("DARK ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
-arr[21] = new Team("SPARTANS ", 1 , 14 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[21] = new Team("SPARTANS ", 0 , 8 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[22] = new Team("RCZ  ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
