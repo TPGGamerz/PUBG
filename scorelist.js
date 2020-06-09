@@ -48,7 +48,7 @@ arr[13] = new Team("TeamXForceE ", 0 , 1 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[14] = new Team("TeamSinnersPSM ", 0 , 0 , 0 , 0 , 0 , 12 , 0 , 0 , 0 , 0);
 
-arr[15] = new Team("PYRO  ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
+arr[15] = new Team("  TEAM I͜͡NSANE ", 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0 , 0);
 
 arr[16] = new Team("BRTHxkerela ", 3 , 7 , 2 , 12 , 3 , 1 , 0 , 0 , 0 , 0);
 
