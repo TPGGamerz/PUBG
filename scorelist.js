@@ -23,55 +23,55 @@ var arr = [];
 //arr[x] = new Team("Team name", kp1 , pp1 , kp2 , pp2 , kp3 , pp3 , kp4 , pp4 , kp5 , pp5, kp6, pp6, kp7, pp7);
 
 
-arr[0] = new Team("OG ", 0, 0, 6, 5, 10, 22, 13, 30, 11, 22, 0, 0, 0, 0);
+arr[0] = new Team("OG             ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[1] = new Team("squadELEMENT  ", 5, 16, 7, 30, 0, 0, 10, 14, 1, 1, 0, 0, 0, 0);
+arr[1] = new Team(" XTRANJEROS    ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[2] = new Team("ASG", 4, 10, 1, 2, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0);
+arr[2] = new Team("TEAM PWOLI     ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[3] = new Team("TEAM LORD ", 1, 3, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[3] = new Team("TEAM TTx       ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[4] = new Team("SpYDeR  ", 0, 5, 5, 10, 0, 14, 9, 16, 2, 19, 0, 0, 0, 0);
+arr[4] = new Team("BORNKILLERZ    ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[5] = new Team("2乛LITE ", 25, 30, 0, 3, 10, 7, 2, 10, 0, 0, 0, 0, 0, 0);
+arr[5] = new Team("TEAM I͜͡NSANE    ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[6] = new Team("DNZL", 0, 0, 0, 0, 4, 4, 0, 4, 0, 6, 0, 0, 0, 0);
+arr[6] = new Team("SpYDeR         ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[7] = new Team("TEAM PURGE ", 6, 22, 3, 6, 0, 8, 0, 3, 1, 7, 0, 0, 0, 0);
+arr[7] = new Team("TEAM BT        ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[8] = new Team("SWIDE ", 0, 12, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[8] = new Team(" KFG           ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[9] = new Team("BT ", 3, 6, 4, 14, 0, 2, 0, 0, 8, 8, 0, 0, 0, 0);
+arr[9] = new Team("BRTHxkerala    ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[10] = new Team("TEAM PWOLI ", 0, 0, 0, 7, 3, 16, 1, 5, 0, 2, 0, 0, 0, 0);
+arr[10] = new Team("TEAM 6AM      ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[11] = new Team("BORN KILLERZ ", 12, 19, 0, 0, 2, 6, 1, 2, 3, 16, 0, 0, 0, 0);
+arr[11] = new Team("TEAM IDEAL-1  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[12] = new Team("RTV", 0, 0, 0, 0, 3, 10, 8, 6, 1, 3, 0, 0, 0, 0);
+arr[12] = new Team("TEAM IDEAL-2  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[13] = new Team("TeamXForceE ", 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[13] = new Team("Team ZOE      ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[14] = new Team("TeamSinnersPSM ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[14] = new Team("GREAT LEOS    ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[15] = new Team("  TEAM I͜͡NSANE ", 0, 0, 0, 0, 0, 0, 0, 0, 4, 5, 0, 0, 0, 0);
+arr[15] = new Team("TxT           ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[16] = new Team("BRTHxkerela ", 3, 7, 2, 12, 3, 1, 0, 7, 2, 0, 0, 0, 0, 0);
+arr[16] = new Team("KɸR〆         ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[17] = new Team("RQD ", 4, 4, 12, 22, 11, 19, 1, 8, 4, 10, 0, 0, 0, 0);
+arr[17] = new Team("RAPTORS       ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[18] = new Team("InDAuS ", 1, 14, 5, 8, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[18] = new Team("white walkers ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[19] = new Team("KL01彡CREW ", 5, 0, 12, 19, 9, 30, 11, 22, 1, 14, 0, 0, 0, 0);
+arr[19] = new Team("KL01彡CREW    ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[20] = new Team("DARK ", 0, 0, 1, 0, 4, 5, 3, 19, 1, 12, 0, 0, 0, 0);
+arr[20] = new Team("RQD           ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[21] = new Team("SPARTANS ", 0, 8, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[21] = new Team("M24 ßoys      ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[22] = new Team("RCZ  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[22] = new Team("TAFrecruit    ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[23] = new Team("8DPKerala  ", 3, 2, 5, 16, 10, 3, 8, 12, 14, 30, 0, 0, 0, 0);
+arr[23] = new Team("8DPKerala     ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[24] = new Team("TPG CORE  ", 0, 0, 0, 0, 0, 0, 2, 0, 2, 4, 0, 0, 0, 0);
+arr[24] = new Team("TPG๛          ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 for (var i = 0; i < arr.length; i++) {
     for (var j = 0; j < arr.length-1 ; j++) {
