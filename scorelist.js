@@ -27,51 +27,51 @@ arr[0] = new Team("OG             ", 0, 0, 7, 6, 3, 22, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[1] = new Team(" XTRANJEROS    ", 1, 14, 0, 0, 2, 7, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[2] = new Team("TEAM PWOLI     ", 1, 2, 0, 3, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[2] = new Team("TEAM PWOLI     ", 1, 2, 0, 3, 0, 12, 0, 2, 0, 0, 0, 0, 0, 0);
 
 arr[3] = new Team("TEAM TTx       ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[4] = new Team("BORNKILLERZ    ", 7, 22, 1, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[4] = new Team("BORNKILLERZ    ", 7, 22, 1, 10, 0, 0, 4, 19, 0, 0, 0, 0, 0, 0);
 
 arr[5] = new Team("TEAM I͜͡NSANE    ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[6] = new Team("SpYDeR         ", 0, 5, 2, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[6] = new Team("SpYDeR         ", 0, 5, 2, 14, 0, 0, 2, 22, 0, 0, 0, 0, 0, 0);
 
-arr[7] = new Team("TEAM BT        ", 10, 19, 4, 4, 7, 14, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[7] = new Team("TEAM BT        ", 10, 19, 4, 4, 7, 14, 13, 10, 0, 0, 0, 0, 0, 0);
 
 arr[8] = new Team(" KFG           ", 0, 4, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[9] = new Team("BRTHxkerala    ", 2, 3, 9, 7, 11, 30, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[9] = new Team("BRTHxkerala    ", 2, 3, 9, 7, 11, 30, 1, 0, 0, 0, 0, 0, 0, 0);
 
 arr[10] = new Team("TEAM 6AM      ", 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[11] = new Team("TEAM IDEAL-1  ", 6, 7, 6, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[11] = new Team("TEAM IDEAL-1  ", 6, 7, 6, 22, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0);
 
-arr[12] = new Team("TEAM IDEAL-2  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[12] = new Team("TEAM IDEAL-2  ", 0, 0, 0, 0, 0, 0, 1, 7, 0, 0, 0, 0, 0, 0);
 
-arr[13] = new Team("Team ZOE      ", 0, 6, 0, 5, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[13] = new Team("Team ZOE      ", 0, 6, 0, 5, 2, 3, 2, 0, 0, 0, 0, 0, 0, 0);
 
-arr[14] = new Team("GREAT LEOS    ",15, 12, 1, 12, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[14] = new Team("GREAT LEOS    ",15, 12, 1, 12, 3, 4, 3, 8, 0, 0, 0, 0, 0, 0);
 
-arr[15] = new Team("TxT           ", 1, 0, 13, 30, 3, 10, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[15] = new Team("TxT           ", 1, 0, 13, 30, 3, 10, 2, 5, 0, 0, 0, 0, 0, 0);
 
-arr[16] = new Team("KɸR〆         ", 9, 30, 6, 19, 2, 5, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[16] = new Team("KɸR〆         ", 9, 30, 6, 19, 2, 5, 3, 4, 0, 0, 0, 0, 0, 0);
 
 arr[17] = new Team("RAPTORS       ", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[18] = new Team("white walkers ", 0, 0, 2, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[18] = new Team("white walkers ", 0, 0, 2, 1, 0, 2, 5, 12, 0, 0, 0, 0, 0, 0);
 
-arr[19] = new Team("KL01彡CREW    ", 7, 8, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[19] = new Team("KL01彡CREW    ", 7, 8, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0);
 
-arr[20] = new Team("RQD           ", 0, 0, 9, 2, 7, 16, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[20] = new Team("RQD           ", 0, 0, 9, 2, 7, 16, 4, 3, 0, 0, 0, 0, 0, 0);
 
 arr[21] = new Team("M24 ßoys      ", 4, 16, 1, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[22] = new Team("TAFrecruit    ", 7, 1, 1, 0, 5, 19, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[22] = new Team("TAFrecruit    ", 7, 1, 1, 0, 5, 19, 5, 14, 0, 0, 0, 0, 0, 0);
 
-arr[23] = new Team("8DPKerala     ", 0, 0, 1, 0, 4, 6, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[23] = new Team("8DPKerala     ", 0, 0, 1, 0, 4, 6, 16, 30, 0, 0, 0, 0, 0, 0);
 
-arr[24] = new Team("TPG๛          ", 4, 0, 8, 8, 10, 8, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[24] = new Team("TPG๛          ", 4, 0, 8, 8, 10, 8, 1, 16, 0, 0, 0, 0, 0, 0);
 
 for (var i = 0; i < arr.length; i++) {
     for (var j = 0; j < arr.length-1 ; j++) {
