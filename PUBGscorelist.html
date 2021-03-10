@@ -13,6 +13,19 @@
             background-color: black;
             font-size: 30px;
         }
+        .bg {
+            /* The image used */
+            background-image: url("tpg_1.png");
+
+            /* Full height */
+            height: 100%;
+            opacity: 0.5;
+
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
 
         body {
             /* The image used */
@@ -200,10 +213,29 @@
             color: #D0F8FF;
             text-shadow: 2px 2px 2px #CCCCCC;
         }
+        .demo-wrap {
+            overflow: hidden;
+            position: relative;
+        }
+
+        .demo-bg {
+            opacity: 0.5;
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: auto;
+        }
+
+        .demo-content {
+        position: relative;
+        }
     </style>
 </head>
 <body>
-
+<div class="demo-wrap">
+    <img class="demo-bg" src="tpg_1.png">
+    <div class="demo-content">
 
     <table class="ttable">
         <caption>TPG GAMING</caption>
@@ -244,5 +276,7 @@
             }
         </script>
     </table>
+</div>
+</div>
 </body>
 </html>
