@@ -12,7 +12,7 @@ var arr = [];
 //arr[x] = new Team("Team name", kp1 , pp1 , kp2 , pp2 );
 
 
-arr[0] = new Team("OG             ", 0, 0, 7, 6);
+arr[0] = new Team("TEAM XX          ", 0, 0, 7, 6);
 
 arr[1] = new Team(" XTRANJEROS    ", 1, 14, 0, 0);
 
