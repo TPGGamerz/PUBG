@@ -24,11 +24,11 @@ var arr = [];
 
 arr[0] = new Team(" 7xTequilla          ", 4, 1, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[1] = new Team(" XXX                 ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[1] = new Team(" XXX                 ", 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[2] = new Team(" CloudX              ", 18, 10, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[3] = new Team(" DOA Gaming          ", 8, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[3] = new Team(" DOA Gaming          ", 8, 1, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[4] = new Team(" TEAM TARGET         ", 0, 1, 4, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
