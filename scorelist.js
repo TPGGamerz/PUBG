@@ -42,11 +42,11 @@ arr[8] = new Team(" FERRICZ             ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 
 arr[9] = new Team("  TPG                ", 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[10] = new Team(" TEXAS 14Esports    ", 8, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[10] = new Team(" TEXAS 14Esports    ", 8, 1, 26, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[11] = new Team(" INFACT Esports     ", 8, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[12] = new Team(" Kinght Of Mutant   ", 18, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[12] = new Team(" Kinght Of Mutant   ", 18, 6, 30, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[13] = new Team(" Team Galaxy        ", 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
@@ -56,7 +56,7 @@ arr[15] = new Team(" ReaperXesports     ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 
 arr[16] = new Team(" XtremeAlpha        ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[17] = new Team(" Brigadianz Esports ", 8, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[17] = new Team(" Brigadianz Esports ", 8, 5, 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[18] = new Team(" Gain Official      ", 12, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
