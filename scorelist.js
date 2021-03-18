@@ -56,7 +56,7 @@ arr[15] = new Team(" ReaperXesports     ", 0, 0, 26, 5, 30, 20, 0, 0, 0, 0, 0, 0
 
 arr[16] = new Team(" XtremeAlpha        ", 0, 0, 4, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[17] = new Team(" Brigadianz Esports ", 8, 5, 8, 10, 4, 1, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[17] = new Team(" Brigadianz Esports ", 8, 5, 8, 10, 4, 3, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[18] = new Team(" Gain Official      ", 12, 14, 8, 1, 8, 14, 0, 0, 0, 0, 0, 0, 0, 0);
 
