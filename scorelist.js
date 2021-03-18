@@ -38,7 +38,7 @@ arr[6] = new Team("  TAKZ               ", 18, 8, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 
 
 arr[7] = new Team(" MALLU COMRADE       ", 4, 4, 6, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[8] = new Team(" FERRICZ             ", 0, 0, 0, 4, 6, 1, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[8] = new Team(" FERRICZ             ", 0, 0, 0, 4, 14, 2, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[9] = new Team("  TPG                ", 2, 0, 2, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
@@ -50,13 +50,13 @@ arr[12] = new Team(" Kinght Of Mutant   ", 18, 6, 30, 14, 26, 8, 0, 0, 0, 0, 0, 
 
 arr[13] = new Team(" Team Galaxy        ", 0, 2, 0, 2, 6, 7, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[14] = new Team(" TORPEDO Elites     ", 26, 20, 4, 3, 2, 4, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[14] = new Team(" TORPEDO Elites     ", 26, 20, 4, 3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[15] = new Team(" ReaperXesports     ", 0, 0, 26, 5, 30, 20, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[16] = new Team(" XtremeAlpha        ", 0, 0, 4, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[17] = new Team(" Brigadianz Esports ", 8, 5, 8, 10, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[17] = new Team(" Brigadianz Esports ", 8, 5, 8, 10, 4, 1, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[18] = new Team(" Gain Official      ", 12, 14, 8, 1, 8, 14, 0, 0, 0, 0, 0, 0, 0, 0);
 
