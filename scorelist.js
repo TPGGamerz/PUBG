@@ -46,7 +46,7 @@ arr[10] = new Team(" TEXAS 14Esports    ", 8, 1, 26, 20, 0, 0, 46, 20, 14, 7, 10
 
 arr[11] = new Team(" INFACT Esports     ", 8, 7, 4, 7, 12, 0, 2, 0, 2, 3, 4, 4, 0, 0);
 
-arr[12] = new Team(" Kinght Of Mutant   ", 18, 6, 30, 14, 26, 8, 8, 1, 0, 1, 16, 20, 20, 20);
+arr[12] = new Team(" Knights Of Mutant   ", 18, 6, 30, 14, 26, 8, 8, 1, 0, 1, 16, 20, 20, 20);
 
 arr[13] = new Team(" Team Galaxy        ", 0, 2, 0, 2, 6, 7, 0, 1, 0, 0, 0, 0, 0, 0);
 
