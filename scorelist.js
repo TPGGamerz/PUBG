@@ -19,7 +19,7 @@ class Team {
     }
 }
 var arr = [];
-//arr[x] = new Team("Team name", kp1 , pp1 );
+//arr[x] = new Team("Team name", kp1 , pp1 , kp2 , pp2 , kp3 , pp3 , kp4 , pp4 , kp5 , pp5, kp6, pp6, kp7, pp7);
 
 
 arr[0] = new Team("              ", 0, 0);
