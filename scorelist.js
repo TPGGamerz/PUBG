@@ -103,6 +103,8 @@ arr[38] = new Team("SOUL  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[39] = new Team("GRZ  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
+arr[40] = new Team("TRz Triablez  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+
 
 
 for (var i = 0; i < arr.length; i++) {
