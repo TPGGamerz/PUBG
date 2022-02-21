@@ -1,3 +1,4 @@
+﻿// JavaScript source code
 class Team {
     constructor(t,kp1,pp1,kp2,pp2,kp3,pp3,kp4,pp4,kp5,pp5,kp6,pp6,kp7,pp7) {
         this.tname = t;
@@ -15,96 +16,92 @@ class Team {
         this.pp6 = pp6;
         this.kp7 = kp7;
         this.pp7 = pp7;
-        this.overall = kp1 + pp1 + kp2 + pp2 + kp3 + pp3 + kp4 + pp4 + kp5 + pp5 + kp6 + pp6+ + kp7 + pp7;
+        this.overall = kp1 + pp1 + kp2 + pp2 + kp3 + pp3 + kp4 + pp4 + kp5 + pp5;
     }
 }
 var arr = [];
 //arr[x] = new Team("Team name", kp1 , pp1 , kp2 , pp2 , kp3 , pp3 , kp4 , pp4 , kp5 , pp5, kp6, pp6, kp7, pp7);
 
 
-arr[0] = new Team("              ", 0, 0);
+arr[0] = new Team("OG ", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[1] = new Team("              ", 0, 0);
+arr[1] = new Team("squadELEMENT  ", 5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[2] = new Team("              ",0 , 0);
+arr[2] = new Team("ASG", 4, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[3] = new Team("              ", 0, 0);
+arr[3] = new Team("TEAM LORD ", 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[4] = new Team("              ", 0, 0);
+arr[4] = new Team("SpYDeR  ", 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[5] = new Team("              ", 0, 0);
+arr[5] = new Team("2乛LITE ", 30, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[6] = new Team("              ", 0, 0);
+arr[6] = new Team("DNZL", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[7] = new Team("              ", 0, 0);
+arr[7] = new Team("TEAM PURGE ", 6, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[8] = new Team("              ", 0, 0);
+arr[8] = new Team("SWIDE ", 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[9] = new Team("              ", 0, 0);
+arr[9] = new Team("BT ", 3, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[10] = new Team("             ", 0, 0);
+arr[10] = new Team("TEAM PWOLI ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[11] = new Team("             ", 0, 0);
+arr[11] = new Team("BORN KILLERZ ", 12, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[12] = new Team("             ", 0, 0);
+arr[12] = new Team("RTV", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[13] = new Team("             ", 0, 0);
+arr[13] = new Team("TeamXForceE ", 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[14] = new Team("              ", 0,0);
+arr[14] = new Team("TeamSinnersPSM ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[15] = new Team("             ", 0, 0);
+arr[15] = new Team("PYRO  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[16] = new Team("              ",0, 0):
+arr[16] = new Team("BRTHxkerela ", 3, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[17] = new Team("              ", 0, 0);
+arr[17] = new Team("RQD ", 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[18] = new Team("              ", 0, 0);
+arr[18] = new Team("InDAuS ", 1, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[19] = new Team("              ", 0, 0);
+arr[19] = new Team("KL01彡CREW ", 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[20] = new Team("              ", 0, 0);
+arr[20] = new Team("DARK ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[21] = new Team("              ", 0, 0);
+arr[21] = new Team("SPARTANS ", 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[22] = new Team("             ", 0, 0);
+arr[22] = new Team("RCZ  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[23] = new Team("              ",0,0 ):
+arr[23] = new Team("8DPKerala  ", 3, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[24] = new Team("              ", 0, 0);
+arr[24] = new Team("TPG CORE  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[25] = new Team("              ", 0, 0);
+arr[25] = new Team("TPG CORE  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[26] = new Team("              ", 0, 0);
+arr[26] = new Team("TPG CORE  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[27] = new Team("              ", 0, 0);
+arr[27] = new Team("TPG CORE  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[28] = new Team("             ", 0, 0);
+arr[28] = new Team("TPG CORE  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[29] = new Team("             ",0 ,0 ):
+arr[29] = new Team("TPG CORE  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[30] = new Team("              ", 0, 0);
+arr[30] = new Team("TPG CORE  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[31] = new Team("              ", 0, 0);
+arr[31] = new Team("SPARTANS ", 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[32] = new Team("              ", 0, 0);
+arr[32] = new Team("RCZ  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[33] = new Team("              ", 0, 0);
+arr[33] = new Team("8DPKerala  ", 3, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[34] = new Team("             ", 0, 0);
+arr[34] = new Team("TPG CORE  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[35] = new Team("             ",0,0 ):
+arr[35] = new Team("TPG CORE  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[36] = new Team("              ", 0, 0);
+arr[36] = new Team("TPG CORE  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[37] = new Team("              ", 0, 0);
+arr[37] = new Team("TPG CORE  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[38] = new Team("              ", 0, 0);
+arr[38] = new Team("TPG CORE  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[39] = new Team("              ", 0, 0);
-
-arr[40] = new Team("             ", 0, 0);
-
-
+arr[39] = new Team("TPG CORE  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 
 
@@ -116,8 +113,8 @@ for (var i = 0; i < arr.length; i++) {
             arr[j + 1] = t;
         }
         else if (arr[j].overall == arr[j + 1].overall) {
-            var kpj = arr[j].kp1 + arr[j].kp2 + arr[j].kp3 + arr[j].kp4 + arr[j].kp5 + arr[j].kp6 + arr[j].kp7;
-            var kpj2 = arr[j+1].kp1 + arr[j + 1].kp2 + arr[j + 1].kp3 + arr[j + 1].kp4 + arr[j + 1].kp5 + arr[j + 1].kp6 + arr[j + 1].kp7;
+            var kpj =  arr[j].kp1 + arr[j].kp2 + arr[j].kp3 + arr[j].kp4 + arr[j].kp5;
+            var kpj2 = arr[j + 1].kp1 + arr[j + 1].kp2 + arr[j + 1].kp3 + arr[j + 1].kp4 + arr[j + 1].kp5;
             if (kpj < kpj2) {
                 t = arr[j];
                 arr[j] = arr[j + 1];
