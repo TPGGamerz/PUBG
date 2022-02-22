@@ -29,11 +29,11 @@ arr[1] = new Team("HIDE ESP - HIDEx  ", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 
 arr[2] = new Team("Thunder elites 1", 8, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[3] = new Team("TPG 1 ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[3] = new Team("TPG 1 ", 3, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[4] = new Team("SQW NEMESIS - SQW  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[4] = new Team("SQW NEMESIS - SQW  ", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[5] = new Team("Mallu brothers - BRO ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[5] = new Team("Mallu brothers - BRO ", 13, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[6] = new Team("BTL", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
