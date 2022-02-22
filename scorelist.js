@@ -25,9 +25,9 @@ var arr = [];
 
 arr[0] = new Team("TETRAX ESPORTS - TRX", 9, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[1] = new Team("HIDE ESP - HIDEx  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[1] = new Team("HIDE ESP - HIDEx  ", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[2] = new Team("Thunder elites 1", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[2] = new Team("Thunder elites 1", 8, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[3] = new Team("TPG 1 ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
