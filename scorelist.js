@@ -57,15 +57,15 @@ arr[15] = new Team("FXK ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[16] = new Team("OPEQ ", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[17] = new Team("IGX", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[17] = new Team("IGX", 8, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[18] = new Team("AREA 51 A - A51 ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[18] = new Team("AREA 51 A - A51 ", 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[19] = new Team("TROJAN ESPORTS - TJ ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[19] = new Team("TROJAN ESPORTS - TJ ", 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[20] = new Team("ORANIC PUNKS - OGP ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[20] = new Team("ORANIC PUNKS - OGP ", 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[21] = new Team(" DEVIL ESPORTS - DOD ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[21] = new Team(" DEVIL ESPORTS - DOD ", 17, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[22] = new Team(" 4DIRECTION MEN - 4dmen ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
