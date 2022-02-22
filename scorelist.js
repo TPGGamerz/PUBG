@@ -23,11 +23,11 @@ var arr = [];
 //arr[x] = new Team("Team name", kp1 , pp1 , kp2 , pp2 , kp3 , pp3 , kp4 , pp4 , kp5 , pp5, kp6, pp6, kp7, pp7);
 
 
-arr[0] = new Team("EGO EVILS ", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[0] = new Team("EGO EVILS ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[1] = new Team("DEVIL ESPORTS  ", 5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[1] = new Team("DEVIL ESPORTS  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[2] = new Team("TRz TRIBALZ 1", 4, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[2] = new Team("TRz TRIBALZ 1", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[3] = new Team("40FPS ESPORTS ", 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
