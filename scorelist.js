@@ -29,47 +29,47 @@ arr[1] = new Team("DEVIL ESPORTS  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[2] = new Team("TRz TRIBALZ 1", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[3] = new Team("40FPS ESPORTS ", 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[3] = new Team("40FPS ESPORTS ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[4] = new Team("RDR eSports  ", 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[4] = new Team("RDR eSports  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[5] = new Team("Twz eSports ", 30, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[5] = new Team("Twz eSports ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[6] = new Team("LYNx ESP", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[7] = new Team("laid2rest ", 6, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[7] = new Team("laid2rest ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[8] = new Team("HYPERX ESP ", 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[8] = new Team("HYPERX ESP ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[9] = new Team("PATEK GT ", 3, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[9] = new Team("PATEK GT ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[10] = new Team("ATINOZ ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[11] = new Team("MLM ", 12, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[11] = new Team("MLM ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[12] = new Team("Team T REX CLAN", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[13] = new Team("vRxZTALLIONz ", 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[13] = new Team("vRxZTALLIONz ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[14] = new Team("Ms13 ESports ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[15] = new Team("IDEAL ESPORTS  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[16] = new Team("WaRRioRxKINGS ", 3, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[16] = new Team("WaRRioRxKINGS ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[17] = new Team("4H ", 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[17] = new Team("4H ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[18] = new Team("DOLMIC", 1, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[18] = new Team("DOLMIC", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[19] = new Team("BYOB ", 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[19] = new Team("BYOB ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[20] = new Team("TNF ESPORTS ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[21] = new Team("ENCOUNTERS ", 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[21] = new Team("ENCOUNTERS ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[22] = new Team("TEAM CODE  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[23] = new Team(" ETERNAL YODHAS  ", 3, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[23] = new Team(" ETERNAL YODHAS  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[24] = new Team("ORGANIC PUNKS  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
@@ -85,7 +85,7 @@ arr[29] = new Team(" WEST VII ESPORTS  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 
 arr[30] = new Team("GOLDEN TRIGGER  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[31] = new Team("SAINT DEVILS GT  ", 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[31] = new Team("SAINT DEVILS GT  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[32] = new Team("4D  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
