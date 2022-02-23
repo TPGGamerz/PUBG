@@ -101,7 +101,7 @@ arr[37] = new Team("LYNX  ", 9, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[38] = new Team("SQ NEMISIS  ", 6, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[39] = new Team("TRz TRIABLZ - Team XR ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[39] = new Team("TRz TRIABLZ - Team XR ", 5, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[40] = new Team("BYOB  ", 9, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
