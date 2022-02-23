@@ -23,7 +23,7 @@ var arr = [];
 //arr[x] = new Team("Team name", kp1 , pp1 , kp2 , pp2 , kp3 , pp3 , kp4 , pp4 , kp5 , pp5, kp6, pp6, kp7, pp7);
 
 
-arr[0] = new Team("TETRAX ESPORTS - TRX", 0, O, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[0] = new Team("TETRAX ESPORTS - TRX", 5, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[1] = new Team("HIDE ESP - HIDEx  ", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
@@ -31,7 +31,7 @@ arr[2] = new Team("Thunder elites 1", 8, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[3] = new Team("TPG 1 ", 3, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[4] = new Team("SQW NEMESIS - SQW  ", 8, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[4] = new Team("SQW NEMESIS - SQW  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[5] = new Team("Mallu brothers - BRO ", 13, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
@@ -81,29 +81,29 @@ arr[27] = new Team("GOLDEN TRIGGER - GTR ", 16, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 
 arr[28] = new Team(" PSYxMTX  ", 12, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[29] = new Team("SOUL  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[29] = new Team("SOUL  ", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[30] = new Team("TRz TRIABLZ - 6GODx  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[31] = new Team("BOG - Bog Fils ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[31] = new Team("BOG - Bog Fils ", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[32] = new Team(" SAINT DEVILS - DEVIL  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[32] = new Team(" SAINT DEVILS - DEVIL  ", 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[33] = new Team("MS13 ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[33] = new Team("MS13 ", 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[34] = new Team("ATINIZ  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[35] = new Team(" HYPER EXP  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[35] = new Team(" HYPER EXP  ", 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[36] = new Team("RIDER ESPORTS  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[36] = new Team("RIDER ESPORTS  ", 5, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[37] = new Team("LYN  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[37] = new Team("LYN  ", 9, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[38] = new Team("SQ NEMISIS  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[39] = new Team("TRz TRIABLZ - Team XR ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[39] = new Team("TRz TRIABLZ - Team XR ", 5, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[40] = new Team("BYOB  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[40] = new Team("BYOB  ", 9, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 
 
