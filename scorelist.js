@@ -31,7 +31,7 @@ arr[2] = new Team("Thunder elites 1", 8, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[3] = new Team("TPG 1 ", 3, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[4] = new Team("SQW NEMESIS - SQW  ", 7, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[4] = new Team("SQW NEMESIS - SQW  ", 8, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[5] = new Team("Mallu brothers - BRO ", 13, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
