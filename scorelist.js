@@ -99,7 +99,7 @@ arr[36] = new Team("RIDER ESPORTS  ", 5, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[37] = new Team("LYN  ", 9, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[38] = new Team("SQ NEMISIS  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[38] = new Team("SQ NEMISIS  ", 6, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[39] = new Team("TRz TRIABLZ - Team XR ", 5, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
