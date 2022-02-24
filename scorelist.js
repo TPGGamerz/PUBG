@@ -53,7 +53,7 @@ arr[13] = new Team("KING ESPORTS ", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[14] = new Team("BRS  ", 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[15] = new Team("FXK ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[15] = new Team("FXK ", 4, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[16] = new Team("OPEQ ", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
@@ -61,7 +61,7 @@ arr[17] = new Team("IGX", 8, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[18] = new Team("AREA 51 A - A51 ", 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[19] = new Team("TROJAN ESPORTS - TJ ", 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[19] = new Team("TROJAN ESPORTS - TJ ", 18, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[20] = new Team("ORGANIC PUNKS - OGP ", 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
@@ -85,9 +85,9 @@ arr[29] = new Team("SOUL  ", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[30] = new Team("TRz TRIABLZ - 6GODx  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[31] = new Team("BOG - Bog Fils ", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[31] = new Team("BOG - Bog Fils ", 9, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[32] = new Team(" SAINT DEVILS - DEVIL  ", 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[32] = new Team(" SAINT DEVILS - DEVIL  ", 6, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[33] = new Team("MS13 ", 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
@@ -95,9 +95,9 @@ arr[34] = new Team("ATINIZ  ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[35] = new Team(" HYPER EXP  ", 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[36] = new Team("RIDER ESPORTS  ", 5, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[36] = new Team("RIDER ESPORTS  ", 10, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[37] = new Team("LYNX  ", 9, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[37] = new Team("LYNX  ", 16, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[38] = new Team("SQ NEMISIS  ", 6, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
