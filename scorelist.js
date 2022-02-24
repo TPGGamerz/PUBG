@@ -35,9 +35,9 @@ arr[4] = new Team("SQW NEMESIS - SQW  ", 12, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 
 arr[5] = new Team("Mallu brothers - BRO ", 16, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[6] = new Team("BTL", 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[6] = new Team("BTL", 9,8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[7] = new Team("INT ", 3, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[7] = new Team("INT ", 4, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[8] = new Team("RISING 47 - R4T7 ", 5, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
@@ -101,7 +101,7 @@ arr[37] = new Team("LYNX  ", 16, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[38] = new Team("SQ NEMISIS  ", 17, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[39] = new Team("TRz TRIABLZ - Team XR ", 5, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[39] = new Team("TRz TRIABLZ - Team XR ", 10, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[40] = new Team("BYOB  ", 22, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
