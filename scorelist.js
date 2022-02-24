@@ -23,7 +23,7 @@ var arr = [];
 //arr[x] = new Team("Team name", kp1 , pp1 , kp2 , pp2 , kp3 , pp3 , kp4 , pp4 , kp5 , pp5, kp6, pp6, kp7, pp7);
 
 
-arr[0] = new Team("TETRAX ESPORTS - TRX", 12, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[0] = new Team("TETRAX ESPORTS - TRX", 8, 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[1] = new Team("HIDE ESP - HIDEx  ", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
