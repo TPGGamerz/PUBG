@@ -51,7 +51,7 @@ arr[12] = new Team("COMBON ", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[13] = new Team("KING ESPORTS ", 7, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[14] = new Team("BRS  ", 6, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[14] = new Team("BRS  ", 9, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[15] = new Team("FXK ", 4, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
@@ -65,21 +65,21 @@ arr[19] = new Team("TROJAN ESPORTS - TJ ", 18, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
 
 arr[20] = new Team("ORGANIC PUNKS - OGP ", 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[21] = new Team(" DEVIL ESPORTS - DOD ", 17, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[21] = new Team(" DEVIL ESPORTS - DOD ", 28, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[22] = new Team(" 4DIRECTION MEN - 4dmen ", 2,1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[23] = new Team("EGO EVILS  ", 23, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[24] = new Team(" 4x4 ", 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[24] = new Team(" 4x4 ", 18, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[25] = new Team("AREA 51 B  ", 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[25] = new Team("AREA 51 B  ", 6, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[26] = new Team("FATE X Official - F8 ", 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[26] = new Team("FATE X Official - F8 ", 10, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[27] = new Team("GOLDEN TRIGGER - GTR ", 16, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[27] = new Team("GOLDEN TRIGGER - GTR ", 20, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
-arr[28] = new Team(" PSYxMTX  ", 12, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
+arr[28] = new Team(" PSYxMTX  ", 16, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 arr[29] = new Team("SOUL  ", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
